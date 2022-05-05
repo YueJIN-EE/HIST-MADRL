@@ -3,6 +3,15 @@
 This repository is an implementation of cooperative navigation control based on [Hierarchical and Stable Multiagent Reinforcement
 Learning for Cooperative Navigation Control](https://ieeexplore.ieee.org/abstract/document/9466421).
 
+@article{  
+  jin2021hierarchical,  
+  title={Hierarchical and Stable Multiagent Reinforcement Learning for Cooperative Navigation Control},  
+  author={Jin, Yue and Wei, Shuangqing and Yuan, Jian and Zhang, Xudong},  
+  journal={IEEE Transactions on Neural Networks and Learning Systems},  
+  year={2021},  
+  publisher={IEEE}  
+}
+
 ## Pretrain
 Pretrain target selection policy:
  
